@@ -1,1 +1,1 @@
-# SQL Codes and Challanges
+# Codes and Challanges
