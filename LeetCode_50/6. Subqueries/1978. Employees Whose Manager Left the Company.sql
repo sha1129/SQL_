@@ -1,4 +1,4 @@
--- able: Employees
+-- Table: Employees
 
 -- +-------------+----------+
 -- | Column Name | Type     |
